@@ -1,5 +1,4 @@
-# task-specific-ensemble-transfer-learning
-Reproducible code for task-specific ensemble transfer learning across four cancer image classification benchmarks.
+
 # Task-Specific Ensemble Transfer Learning for Cancer Image Classification
 
 This repository contains the source code and reproducibility materials
